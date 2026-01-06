@@ -24,13 +24,13 @@ const Modal = ({ closeModal }) => {
                     </p>
                     <ul>
                         <li>
-                            Web Application Development
+                            Frontend Website Development using React
                         </li>
                         <li>
-                            Custom Software Development
+                           Website Deployment & Hosting Setup
                         </li>
                         <li>
-                            Software Prototyping
+                            Basic Backend API Development (Django)
                         </li>
                     </ul>
                 </div>
