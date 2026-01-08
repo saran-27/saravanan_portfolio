@@ -15,7 +15,10 @@ function About() {
         <div className='about-main-left'>
             <h3 className='about-sub-heading'>Developer</h3>
             <p className='about-sub-heading-details'>
-              Aspiring <u>Full Stack Web Developer</u> passionate about building practical web applications and continuously learning to create impactful digital solutions.
+Fresher <u>Full Stack Web Developer </u>with hands-on experience in building responsive web applications using React.js for frontend and Python with Django / Django REST Framework for
+backend development . Skilled in REST APIs, CRUD operations, MySQL database integration, and
+tools like Git , GitHub, and Postman. Familiar with basic deployment using Netlify, Vercel, and
+Render .
             </p>
         </div>
         <div className='about-main-right'>

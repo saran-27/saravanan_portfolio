@@ -8,7 +8,7 @@ class Home extends Component {
     state = {showModal:false};
     componentDidMount(){
         setTimeout(() =>{
-            this.setState({showModal:true});
+            this.setState({showModal:false});
         }, 2400);
     }
 
