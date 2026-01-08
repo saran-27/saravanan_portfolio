@@ -35,13 +35,13 @@ Render .
         link="projects!"
         toAddress="/projects">
       </Footer>
-      <div className='vector-frame'>
+      {/* <div className='vector-frame'>
         <img src={aboutVector}
           alt="about"
           className='about-vector'
           loading="lazy"
         />
-      </div>
+      </div> */}
     </div>
   )
 }

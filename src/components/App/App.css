@@ -6,8 +6,8 @@ body {
   width: 100%;
   overflow-x: hidden;
   font-family: 'Poppins', sans-serif;
-    background: linear-gradient(39.97deg, #334a4a 0.79%, #26c1a2 79.79%);
-color:floralwhite;
+  background: linear-gradient(39.97deg, #334a4a 0.79%, #26c1a2 79.79%);
+  color: black;
 }
 
 input:focus,
