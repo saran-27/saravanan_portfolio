@@ -19,6 +19,7 @@ function Projects() {
           imageUrl,
           projectUrl,
           technology,
+          github
         }, index) => {
           return (<ProjectCard key={index}
           projectName={projectName}
@@ -26,6 +27,7 @@ function Projects() {
           imageUrl={imageUrl}
           projectUrl={projectUrl}
           technology={technology}
+          github={github}
         />);
         })
       }

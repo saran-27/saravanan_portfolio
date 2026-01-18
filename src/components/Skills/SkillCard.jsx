@@ -1,3 +1,4 @@
+import React from "react";
 import "./Skills.css";
 export default function SkillCard({skillName, skillUrl}) {
   return (

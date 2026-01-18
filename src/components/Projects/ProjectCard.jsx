@@ -1,10 +1,13 @@
+import React from "react";
+
 import "./Projects.css";
 function ProjectCard(
     {projectName,
     projectDescription,
     imageUrl,
     projectUrl,
-    technology}) {
+    technology,
+    github}) {
   return (
     <div className="project-card">
         <div className="image-container">
@@ -29,11 +32,19 @@ function ProjectCard(
         <p className="tech-used">
             {technology}
         </p>
-        <a href={projectUrl}
+        <div className="live-url-github">
+            <a href={projectUrl}
             className="project-live-link"
             target="_blank">
-            View live
+            <button>live</button>
         </a>
+        <a href={github}
+            class="button" 
+            className="project-live-link"
+            target="_blank">
+                <button>GitHub</button>
+        </a>
+        </div>
         </div>
     </div>
   )
