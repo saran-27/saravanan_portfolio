@@ -19,7 +19,6 @@ function ProjectCard(
                 <img src={imageUrl} 
                     alt={projectName}
                     className="project-image"
-                    loading="lazy"
                     />
             </a>
         </div>
