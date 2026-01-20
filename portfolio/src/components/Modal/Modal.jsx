@@ -35,9 +35,9 @@ const Modal = ({ closeModal }) => {
                     </ul>
                 </div>
                 <div className='lower-section'>
-                    <a onClick={closeModal} className='modal-btn btn-close'>
+                    <button onClick={closeModal} className='modal-btn btn-close'>
                         Close
-                    </a>
+                    </button>
                     <Link className="modal-btn btn-contact" to="/contact">
                         Contact
                     </Link>

@@ -14,6 +14,7 @@ function ProjectCard(
             <a href={projectUrl}
                 className="project-external-link"
                 target="_blank"
+                rel="noopener noreferrer"
                 >
                 <img src={imageUrl} 
                     alt={projectName}
@@ -35,13 +36,15 @@ function ProjectCard(
         <div className="live-url-github">
             <a href={projectUrl}
             className="project-live-link"
-            target="_blank">
+            target="_blank"
+            rel="noopener noreferrer">
             <button>live</button>
         </a>
         <a href={github}
             class="button" 
             className="project-live-link"
-            target="_blank">
+            target="_blank"
+            rel="noopener noreferrer">
                 <button>GitHub</button>
         </a>
         </div>

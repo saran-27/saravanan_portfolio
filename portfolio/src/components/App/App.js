@@ -9,7 +9,7 @@ import Projects from "./../Projects/Projects.jsx";
 import Skills from "./../Skills/Skills.jsx";
 import Contact from "./../Contact/Contact.jsx";
 import GoHome from "./../GoHome/GoHome.jsx";
-function App_Main() {
+function AppMain() {
   return (
     <div>
         <HashRouter>
@@ -25,4 +25,4 @@ function App_Main() {
   );
 }
 
-export default App_Main;
+export default AppMain;

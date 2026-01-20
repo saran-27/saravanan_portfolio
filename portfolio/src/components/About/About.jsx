@@ -2,7 +2,6 @@ import React from 'react'
 import "./About.css";
 import Header from "./../Header/Header.jsx"
 import Footer from "./../Footer/Footer.jsx"
-import aboutVector from "./../../assets/about_vector.png";
 import aboutAnime from "./../../assets/about_anime.gif";
 function About() {
   return (
