@@ -68,7 +68,7 @@ user authentication (login and logout) using Firebase Authentication.
     {
         projectName: 'Tic Tac Toe',
         projectDescription:'Developed a classic Tic Tac Toe game with dynamic state management, winner detection, and reset functionality.',
-        imageUrl: 'https://instasize.com/p/11deb121fa3c25c64f4fbf59f7c9efd2ec2df337a18951446f1d8dab2975577c',
+        imageUrl: 'https://github.com/saran-27/saravanan_portfolio/blob/main/portfolio/src/assets/Screenshot%202026-01-20%20235122.png?raw=true',
         projectUrl: 'https://tik-tac-game-tan.vercel.app/',
         technology:'React.js,CSS,JavaScript,React Hooks',
         github:'https://github.com/saran-27/tik-tac-game/tree/main/tiktac'
