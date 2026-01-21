@@ -19,7 +19,7 @@ function ProjectCard(
                 <img src={imageUrl} 
                     alt={projectName}
                     className="project-image"
-                    />
+                />
             </a>
         </div>
         <div className="project-details-container">
