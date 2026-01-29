@@ -76,7 +76,7 @@ user authentication (login and logout) using Firebase Authentication.
      {
         projectName: 'One Stop Cart',
         projectDescription:'Developed a full-stack e-commerce application using React for the frontend and Django REST Framework for backend APIs. Implemented product, price, quantity, and cart logic with backend-driven image rendering in React.',
-        imageUrl: 'https://github.com/saran-27/saravanan_portfolio/blob/main/portfolio/src/assets/Screenshot%202026-01-20%20235122.png?raw=true',
+        imageUrl: 'https://github.com/saran-27/saravanan_portfolio/blob/cdfb31b71c06055ac5b5426a37acf77d2b887e1e/portfolio/src/assets/Screenshot%202026-01-29%20181656.png?raw=true',
         projectUrl: 'https://one-stop-cart.vercel.app/',
         technology:'React.js, Django REST Framework, Bootstrap, CSS, REST APIs',
         github:'https://github.com/saran-27/OneStopCart'
