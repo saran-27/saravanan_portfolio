@@ -73,4 +73,12 @@ user authentication (login and logout) using Firebase Authentication.
         technology:'React.js,CSS,JavaScript,React Hooks',
         github:'https://github.com/saran-27/tik-tac-game/tree/main/tiktac'
     },
+     {
+        projectName: 'One Stop Cart',
+        projectDescription:'Developed a full-stack e-commerce application using React for the frontend and Django REST Framework for backend APIs. Implemented product, price, quantity, and cart logic with backend-driven image rendering in React.',
+        imageUrl: 'https://github.com/saran-27/saravanan_portfolio/blob/main/portfolio/src/assets/Screenshot%202026-01-20%20235122.png?raw=true',
+        projectUrl: 'https://one-stop-cart.vercel.app/',
+        technology:'React.js, Django REST Framework, Bootstrap, CSS, REST APIs',
+        github:'https://github.com/saran-27/OneStopCart'
+    },
 ];
